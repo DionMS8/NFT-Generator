@@ -1,4 +1,4 @@
-# Creating NFTs with Node.js
+# Non-Fungible Token (NFT) Generator 🖼🛠
 
 ## Table of contents
 * [General Description](#general-info)
