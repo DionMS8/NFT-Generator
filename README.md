@@ -1,4 +1,4 @@
-# NFT Generator 🖼🛠
+# Non-Fungible Token (NFT) Generator 🖼🛠
 
 ## Table of contents
 * [General Description](#general-info)
