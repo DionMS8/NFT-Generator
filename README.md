@@ -17,9 +17,12 @@
 - CSS3
 - JavaScript 
 - Node.js
-- 
+- Next.js
+- React.js
+
 ## Web 3.0 Technologies
 
-- Faucets
+- Chainlink Faucets
+- Alchemy (blockchain developer platform)
 
 ## Screenshots 
