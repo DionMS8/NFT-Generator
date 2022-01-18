@@ -1,4 +1,4 @@
-# NFT-Creator
+# NFT-Creator Using Node.js
 
 ## Table of contents
 * [General Description](#general-info)
