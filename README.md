@@ -1,4 +1,4 @@
-# NFT Creator 🖼🎴
+# 🖼 NFT Creator
 
 ## Table of contents
 * [General Description](#general-info)
