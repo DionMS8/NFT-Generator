@@ -9,7 +9,7 @@
 
 ## General Description
 
-
+An NFT generator built with Node.js and Next.js. The smart contracts for the NFTs are created with Solidity. A metamask wallet was connected on the Rinkeby Test Network and Chainlink Faucets was used to send test ethereum to the wallet for minting and blockchain deployment purposes.
 
 ## Web Dev Technologies
 
